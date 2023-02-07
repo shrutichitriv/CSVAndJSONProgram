@@ -1,6 +1,6 @@
-﻿using AddressbookCSVAndJSON;
+﻿
 
-namespace AddressbookCsvAndJSON
+namespace AddressbookCSVAndJSON
 {
     public class Program
     {
